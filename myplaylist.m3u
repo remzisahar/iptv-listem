@@ -1,0 +1,213 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Turkey", tabii TV
+http://tabii.mobi-tv.workers.dev/tabiiTV.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii spor
+http://tabii.mobi-tv.workers.dev/tabiispor.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 1
+http://tabii.mobi-tv.workers.dev/tabiiSpor1.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 2
+http://tabii.mobi-tv.workers.dev/tabiiSpor2.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 3
+http://tabii.mobi-tv.workers.dev/tabiiSpor3.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 4
+http://tabii.mobi-tv.workers.dev/tabiiSpor4.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 5
+http://tabii.mobi-tv.workers.dev/tabiiSpor5.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 6
+http://tabii.mobi-tv.workers.dev/tabiiSpor6.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 7
+http://tabii.mobi-tv.workers.dev/tabiiSpor7.m3u8
+#EXTINF:0 type="stream" channelId="-1", tabii Spor 8
+http://tabii.mobi-tv.workers.dev/tabiiSpor8.m3u8
+#EXTINF:0 type="stream" channelId="2883", CNN
+http://live.sarkortv.workers.dev/?ID=90
+#EXTINF:0 type="stream" channelId="-1", Idman TV
+http://live.mediabaytv.workers.dev/?ID=92
+#EXTINF:0 type="stream" channelId="-1", AlJazeera HD
+http://live.sarkortv.workers.dev/?ID=175
+#EXTINF:0 type="stream" channelId="-1", Deutsche Welle HD
+http://live.sarkortv.workers.dev/?ID=107
+#EXTINF:0 type="stream" channelId="51", English Club
+http://live.sarkortv.workers.dev/?ID=161
+#EXTINF:0 type="stream" channelId="3242", Sport TV HD
+http://live.sarkortv.workers.dev/?ID=11
+#EXTINF:0 type="stream" channelId="-1", Match Planeta
+http://live.sarkortv.workers.dev/?ID=170
+#EXTINF:0 type="stream" channelId="3895", Diema Sport
+http://cdn.bulgariatv.workers.dev/?ID=diemasport&addhdr=User-Agent: Mozilla/5.0 (Web0S; Linux/SmartTV)
+#EXTINF:0 type="stream" channelId="3896", Diema Sport 2
+http://cdn.bulgariatv.workers.dev/?ID=diemasport2&addhdr=User-Agent: Mozilla/5.0 (Web0S; Linux/SmartTV)
+#EXTINF:0 type="stream" channelId="-1", Diema Sport 3
+http://cdn.bulgariatv.workers.dev/?ID=diemasport3&addhdr=User-Agent: Mozilla/5.0 (Web0S; Linux/SmartTV)
+#EXTINF:0 type="stream" channelId="2408", Max Sport 1
+http://cdn.bulgariatv.workers.dev/?ID=maxsport1&addhdr=User-Agent: Mozilla/5.0 (Web0S; Linux/SmartTV)
+#EXTINF:0 type="stream" channelId="4674", Max Sport 2
+http://cdn.bulgariatv.workers.dev/?ID=maxsport2&addhdr=User-Agent: Mozilla/5.0 (Web0S; Linux/SmartTV)
+#EXTINF:0 type="stream" channelId="4675", Max Sport 3
+http://cdn.bulgariatv.workers.dev/?ID=maxsport3&addhdr=User-Agent: Mozilla/5.0 (Web0S; Linux/SmartTV)
+#EXTINF:0 type="stream" channelId="4676", Max Sport 4
+http://cdn.bulgariatv.workers.dev/?ID=maxsport4&addhdr=User-Agent: Mozilla/5.0 (Web0S; Linux/SmartTV)
+#EXTINF:0 type="stream" channelId="-1", ESPN EXTRA ARG
+http://cdn.tv-rds.workers.dev/ESPNPLUSARG.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN 3 ARG
+http://cdn.tv-rds.workers.dev/ESPN3ARG.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN 2 ARG
+http://cdn.tv-rds.workers.dev/ESPN2ARG.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN ARG
+http://cdn.tv-rds.workers.dev/ESPNARG.m3u8
+#EXTINF:0 type="stream" channelId="-1", EUROSPORT 2 RS
+http://cdn.tv-rds.workers.dev/EUROSPORT2RS.m3u8
+#EXTINF:0 type="stream" channelId="-1", EUROSPORT 1 RS
+http://cdn.tv-rds.workers.dev/EUROSPORT1RS.m3u8
+#EXTINF:0 type="stream" channelId="-1", SportKlub 4 RS
+http://cdn.tv-rds.workers.dev/SportKlub4RS.m3u8
+#EXTINF:0 type="stream" channelId="-1", SportKlub 3 RS
+http://cdn.tv-rds.workers.dev/SportKlub3RS.m3u8
+#EXTINF:0 type="stream" channelId="-1", SportKlub 2 RS
+http://cdn.tv-rds.workers.dev/SportKlub2RS.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 3 PREMIUM RS
+http://cdn.tv-rds.workers.dev/ArenaSport3Premium.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 2 PREMIUM RS
+http://cdn.tv-rds.workers.dev/ArenaSport2Premium.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 1 PREMIUM RS
+http://cdn.tv-rds.workers.dev/ArenaSport1Premium.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 8 HR
+http://cdn.tv-rds.workers.dev/ArenaSport8HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 7 HR
+http://cdn.tv-rds.workers.dev/ArenaSport7HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 6 HR
+http://cdn.tv-rds.workers.dev/ArenaSport6HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 5 HR
+http://cdn.tv-rds.workers.dev/ArenaSport5HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 4 HR
+http://cdn.tv-rds.workers.dev/ArenaSport4HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 3 HR
+http://cdn.tv-rds.workers.dev/ArenaSport3HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 2 HR
+http://cdn.tv-rds.workers.dev/ArenaSport2HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARENA SPORT 1 HR
+http://cdn.tv-rds.workers.dev/ArenaSport1HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", MAX SPORT 2 HR
+http://cdn.tv-rds.workers.dev/MaxSport2HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", MAX SPORT 1 HR
+http://cdn.tv-rds.workers.dev/MaxSport1HR.m3u8
+#EXTINF:0 type="stream" channelId="-1", PRIMA Sport 4
+http://cdn.tv-rds.workers.dev/PrimaSport4.m3u8
+#EXTINF:0 type="stream" channelId="-1", PRIMA Sport 3
+http://cdn.tv-rds.workers.dev/PrimaSport3.m3u8
+#EXTINF:0 type="stream" channelId="-1", PRIMA Sport 2
+http://cdn.tv-rds.workers.dev/PrimaSport2.m3u8
+#EXTINF:0 type="stream" channelId="-1", PRIMA Sport
+http://cdn.tv-rds.workers.dev/PrimaSport1.m3u8
+#EXTINF:0 type="stream" channelId="3937", DIGI SPORT 4
+http://cdn.tv-rds.workers.dev/DigiSport4.m3u8
+#EXTINF:0 type="stream" channelId="3936", DIGI SPORT 3
+http://cdn.tv-rds.workers.dev/DigiSport3.m3u8
+#EXTINF:0 type="stream" channelId="3935", DIGI SPORT 2
+http://cdn.tv-rds.workers.dev/DigiSport2.m3u8
+#EXTINF:0 type="stream" channelId="3934", DIGI SPORT 1
+http://cdn.tv-rds.workers.dev/DigiSport1.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAZN 4
+http://cdn.tv-rds.workers.dev/DAZN4ES.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAZN LaLiga ES
+http://cdn.tv-rds.workers.dev/DAZNLaLiga.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAZN F1 ES
+http://cdn.tv-rds.workers.dev/DAZNF1ES.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAZN 3 ES
+http://cdn.tv-rds.workers.dev/DAZN3ES.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAZN 1 ES
+http://cdn.tv-rds.workers.dev/DAZN1ES.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAZN 2 ES
+http://cdn.tv-rds.workers.dev/DAZN2ES.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu SPOR 3 Turkey
+http://cdn.tv-rds.workers.dev/TivibuSPOR3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu SPOR 2 Turkey
+http://cdn.tv-rds.workers.dev/TivibuSPOR2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu SPOR Turkey
+http://cdn.tv-rds.workers.dev/TivibuSPOR.m3u8
+#EXTINF:0 type="stream" channelId="-1", beIN SPORTS 5 Turkey
+http://cdn.tv-rds.workers.dev/beINSPORTS5TR.m3u8
+#EXTINF:0 type="stream" channelId="-1", beIN SPORTS 4 Turkey
+http://cdn.tv-rds.workers.dev/beINSPORTS4TR.m3u8
+#EXTINF:0 type="stream" channelId="-1", beIN SPORTS 3 Turkey
+http://cdn.tv-rds.workers.dev/beINSPORTS3TR.m3u8
+#EXTINF:0 type="stream" channelId="-1", beIN SPORTS 2 Turkey
+http://cdn.tv-rds.workers.dev/beINSPORTS2TR.m3u8
+#EXTINF:0 type="stream" channelId="-1", SportKlub 1 RS
+http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SPOR", Haber
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
+#EXTINF:0 type="stream" channelId="-1", Spor coklu Ekran 1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Spor coklu Ekran 1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebshaber.m3u8
+#EXTINF:0 type="stream" channelId="-1", Spor coklu Ekran 1
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="2", Spor coklu Ekran (2)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="2", Spor coklu Ekran (2)
+https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="3", Spor coklu Ekran (3)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="3", Spor coklu Ekran (3)
+https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="4", Spor coklu Ekran (4)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="4", Spor coklu Ekran (4)
+https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="5", Spor coklu Ekran (5)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="5", Spor coklu Ekran (5)
+https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports 1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports 1 -
+https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports 1 +
+https://api.hitnova.net/s/ss/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports 2
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports 2 -
+https://api.codetabs.com/v1/proxy/?quest=https://andro.1386503.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports 2 +
+https://api.hitnova.net/s/ss2/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports Plus
+https://api.codetabs.com/v1/proxy/?quest=https://andro.326503.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sports Plus -
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Spor Smart
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor
+http://50.7.144.122:1935/live/tivibuspor.stream/playlist.m3u8?hash=2c35904b3c2dece35176411eff6369f2
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 1
+https://api.hitnova.net/s/t1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 2
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 2
+https://api.hitnova.net/s/t2/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 3
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 3
+https://api.hitnova.net/s/t3/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 4
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tivibu Spor 4
+https://api.hitnova.net/s/t4/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC Spor
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
+#EXTINF:0 type="stream" channelId="805", NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", NBA TV 2
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
+#EXTINF:0 type="stream" channelId="-1", idman Tv
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bric ve Satranc TV
+https://streams.uzunmuhalefet.com/stream/dd128396-37c6-4ec8-88d0-995c9f1a2e67.m3u8
+#EXTINF:0 type="stream" channelId="-1", beIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEIN sports extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
